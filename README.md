@@ -1,1 +1,2 @@
-# image-encryption
+# Image Encryption
+using playfair cipher
